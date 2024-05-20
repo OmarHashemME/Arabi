@@ -1,0 +1,10 @@
+[project]
+name = "Arabi"
+version = "0.00.01"
+dependencies = [None]
+
+[project.optional_dependencies]
+dev = [
+    None
+]
+
